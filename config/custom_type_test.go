@@ -5,8 +5,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/beatlabs/harvester/config"
-	stdTypes "github.com/beatlabs/harvester/sync"
+	"github.com/rbroggi/harvester/config"
+	stdTypes "github.com/rbroggi/harvester/sync"
 	"github.com/stretchr/testify/assert"
 )
 

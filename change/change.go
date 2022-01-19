@@ -1,7 +1,7 @@
 // Package change supports change management of config values.
 package change
 
-import "github.com/beatlabs/harvester/config"
+import "github.com/rbroggi/harvester/config"
 
 // Change contains all the information of a change.
 type Change struct {

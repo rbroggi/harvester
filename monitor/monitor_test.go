@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/beatlabs/harvester/change"
-	"github.com/beatlabs/harvester/config"
-	"github.com/beatlabs/harvester/sync"
+	"github.com/rbroggi/harvester/change"
+	"github.com/rbroggi/harvester/config"
+	"github.com/rbroggi/harvester/sync"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -3,7 +3,7 @@ package change
 import (
 	"testing"
 
-	"github.com/beatlabs/harvester/config"
+	"github.com/rbroggi/harvester/config"
 	"github.com/stretchr/testify/assert"
 )
 
