@@ -6,9 +6,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/beatlabs/harvester"
-	"github.com/beatlabs/harvester/config"
-	harvestersync "github.com/beatlabs/harvester/sync"
+	"github.com/rbroggi/harvester"
+	"github.com/rbroggi/harvester/config"
+	harvestersync "github.com/rbroggi/harvester/sync"
 )
 
 type cfg struct {

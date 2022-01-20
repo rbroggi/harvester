@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"github.com/beatlabs/harvester/sync"
+	"github.com/rbroggi/harvester/sync"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

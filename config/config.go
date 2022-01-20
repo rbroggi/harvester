@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/beatlabs/harvester/log"
+	"github.com/rbroggi/harvester/log"
 )
 
 // Source definition.

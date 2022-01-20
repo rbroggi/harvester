@@ -7,11 +7,11 @@ import (
 	"path"
 	"time"
 
-	"github.com/beatlabs/harvester/change"
-	"github.com/beatlabs/harvester/config"
-	"github.com/beatlabs/harvester/log"
 	"github.com/hashicorp/consul/api"
 	"github.com/hashicorp/consul/api/watch"
+	"github.com/rbroggi/harvester/change"
+	"github.com/rbroggi/harvester/config"
+	"github.com/rbroggi/harvester/log"
 )
 
 // Item definition.

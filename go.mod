@@ -1,4 +1,4 @@
-module github.com/beatlabs/harvester
+module github.com/rbroggi/harvester
 
 go 1.15
 
